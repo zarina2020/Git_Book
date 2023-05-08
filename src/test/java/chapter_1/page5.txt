@@ -1,0 +1,7 @@
+
+
+I create my page5
+in my remote repository 
+now i want to push to the local repisitory 
+for this I need to upodet or pull 
+i user fetch for cheking my remote repository in the git console 
